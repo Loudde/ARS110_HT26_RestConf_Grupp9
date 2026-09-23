@@ -43,4 +43,8 @@ devices = {
         "loopback_interface": "loopback0",
         "loopback_ip": "172.18.0.1",
         "loopback_netmask": "255.255.0.0",
+
+        "pc_interface": "GigabitEthernet0/0/1",
+        "pc_ip": "12.12.12.13",
+        "pc_netmask": "255.255.255.252",
 }
